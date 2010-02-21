@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jParticle", "jParticle\jParticle.csproj", "{BB209ADD-528C-46C4-B8F1-484B32D0153C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jParticle.Tests", "jParticle.Tests\jParticle.Tests.csproj", "{6DA89E34-72D2-4DA0-AF94-C8C15F1CADFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB209ADD-528C-46C4-B8F1-484B32D0153C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB209ADD-528C-46C4-B8F1-484B32D0153C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB209ADD-528C-46C4-B8F1-484B32D0153C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB209ADD-528C-46C4-B8F1-484B32D0153C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA89E34-72D2-4DA0-AF94-C8C15F1CADFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA89E34-72D2-4DA0-AF94-C8C15F1CADFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA89E34-72D2-4DA0-AF94-C8C15F1CADFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA89E34-72D2-4DA0-AF94-C8C15F1CADFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
